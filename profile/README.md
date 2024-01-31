@@ -67,3 +67,9 @@ See also Potential Client Types of Polus
 * Nathan Hotaling	- Senior Vice President of Data Science
 * Sunny Yu - Associate Director Software Engineering
 * Nick Schaub - Associate Director of Artificial Intelligence
+
+# Contact and Support
+
+For questions, comments, and discussion, you can reach out on image.sc under the [polusai](https://forum.image.sc/tag/polusai) tag.
+
+For bug reports, please open an issue on the relevant repository.
