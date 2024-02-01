@@ -1,9 +1,14 @@
-# Why Polus?
-Polus was the Greek Titan of Knowledge and Insight. As such, Polus represented rational intelligence, an inquisitive mind, resolve and foresight. Due to his inquisitive mind and desire to learn, he was also thought to have gained knowledge and understanding that enabled him to see beyond the obvious. He was also often thought of as the Titan of "Oracles" because he was able to understand things as they stood so well that he could make very accurate predictions of the future.
+# Polus Vision and Goals
 
-Our platform is designed to "see beyond what is obvious" in scientific data and from that to gain insight and understanding, enabling us to predict disease, therapy outcomes, or possible drugs to cure diseases.
+Polus is an open source collaborative project to create an automated, reproducible, secure, and quantitative data analysis platform for researchers; designed from the ground up for ease of use to scientists, developers and administrators. This platform will cover every step of data processing from ingestion/upload of data, through analysis/exploration, to generation of graphs and methods for publications. It is built on modern web technologies and is scalable to meet the needs of modern research in both hardware (supports cutting edge hardware acceleration) and software (the latest in artificial intelligence, machine learning, and deep learning.) The Polus platform aims to be for data analysis what the Adobe cloud is for graphic design. Each application in Polus shares authentication and authorization, roles, data, metadata, storage, and computational infrastructure with every other application. Enabling full interoperability between all applications. However, each Polus application can also serve as a stand-alone application in isolation. Much like Adobe Photoshop can stand alone from Adobe Lightroom or Illustrator or all three can be chained together in a workflow.
 
-Also, Polus was often depicted with an Owl symbol, and as it happens, an owl has been used as a logo to represent a past iteration of the imaging pipeline. Thus, referring to the project as Polus provides a historical link to that earlier version.
+The Polus team will accomplish this by focusing on four key areas of development:
+1. Standards creation and usage
+2. Interactive analysis and data exploration
+3. Production analysis pipeline execution at scale
+4. Traceability/reproducibility of data and methodologies
+
+By focusing on these four key concepts and using only open source code, the Polus team enables researchers to truly understand and tailor their analysis to whatever their computational problem might be including: image analysis, molecular modeling and simulation, cheminformatics and synthesis, informatics/omics, data modeling and statistics, deep learning, visualization, or data quality control. The Polus platform will be the delivery mechanism by which generalizable computational tools can both be developed and, once developed, used by researchers to analyze their data and eventually shared with the wider scientific community.
 
 # An Example for Using Polus in Image Processing
 
@@ -11,15 +16,16 @@ Modern automated microscopes have the capability to acquire hundreds of thousand
 
 ![image](https://github.com/PolusAI/.github/assets/15925882/7ebb5489-8d6f-4c8c-be56-ef648575f547)
 
+# Why Polus?
+Polus was the Greek Titan of Knowledge and Insight. As such, Polus represented rational intelligence, an inquisitive mind, resolve and foresight. Due to his inquisitive mind and desire to learn, he was also thought to have gained knowledge and understanding that enabled him to see beyond the obvious. He was also often thought of as the Titan of "Oracles" because he was able to understand things as they stood so well that he could make very accurate predictions of the future.
+
+Our platform is designed to "see beyond what is obvious" in scientific data and from that to gain insight and understanding, enabling us to predict disease, therapy outcomes, or possible drugs to cure diseases.
+
+Also, Polus was often depicted with an Owl symbol, and as it happens, an owl has been used as a logo to represent a past iteration of the imaging pipeline. Thus, referring to the project as Polus provides a historical link to that earlier version.
+
 ### The Need for Automated Image Processing
 
 Regardless of the approach automated acquisitions can provide researchers with unprecedented levels of visual information about their samples that could be used to deconvolve relationships, discover underlying mechanisms of action, identify and/or classify structures/states, or understand fundamental properties of their samples that would not be possible using any other means.  However, there is a need to assist imaging scientists with computational solutions that convert these raw images to calibrated images which are quickly and easily viewable. Once viewed interactive and traceable measurements are needed to analyze the images and then sophisticated modeling and statistical tools can be used to view the relationships and differences between samples from these measurements.  Finally, a platform in which the output of these models and statistical tools can be quickly and easily graphed/viewed for use in publications in which all graphs and tables have a reproducible and traceable link back to the original source images is necessary to move science forward. In other words, a need for a solution to go from terabytes of raw images to traceable published graphs/tables in a single platform has been shown and Polus is being developed to address this need. 
-
-# Polus Vision and Goals
-
-Polus is an open source collaborative project to create an automated, reproducible, secure, and quantitative data analysis platform for researchers; designed from the ground up for ease of use to scientists, developers and administrators. This platform will cover every step of data processing from ingestion/upload of data, through analysis/exploration, to generation of graphs and methods for publications. It is built on modern web technologies and is scalable to meet the needs of modern research in both hardware (supports cutting edge hardware acceleration) and software (the latest in artificial intelligence, machine learning, and deep learning.) The Polus platform aims to be for data analysis what the Adobe cloud is for graphic design. Each application in Polus shares authentication and authorization, roles, data, metadata, storage, and computational infrastructure with every other application. Enabling full interoperability between all applications. However, each Polus application can also serve as a stand-alone application in isolation. Much like Adobe Photoshop can stand alone from Adobe Lightroom or Illustrator or all three can be chained together in a workflow.
-
-The Polus team will accomplish this by focusing on four key areas of development: (1) standards creation and usage, (2) interactive analysis and data exploration, (3) production analysis pipeline execution at scale, and (4) traceability/reproducibility of data and methodologies. By focusing on these four key concepts and using only open source code, the Polus team enables researchers to truly understand and tailor their analysis to whatever their computational problem might be including: image analysis, molecular modeling and simulation, cheminformatics and synthesis, informatics/omics, data modeling and statistics, deep learning, visualization, or data quality control. The Polus platform will be the delivery mechanism by which generalizable computational tools can both be developed and, once developed, used by researchers to analyze their data and eventually shared with the wider scientific community.
 
 #### Polus Project vision statement:
 
