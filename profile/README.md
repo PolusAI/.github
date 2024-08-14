@@ -71,7 +71,8 @@ See also Potential Client Types of Polus
 # The Team
 
 * Nathan Hotaling	- Senior Vice President of Data Science
-* Sunny Yu - Associate Director Software Engineering
+* Sunny Yu - Director of Data Platforms and Software Integration
+* Hythem Sidky - Senior Director Of Data Solutions
 * Nick Schaub - Associate Director of Artificial Intelligence
 
 # Contact and Support
